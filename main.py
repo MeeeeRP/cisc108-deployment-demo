@@ -5,7 +5,7 @@ set_website_title("Corgi Count")
 set_site_information(author="Maya Perry",
                      description="Increment the number of corgi puppies you have.",
                      sources="",
-                     planning="design.pdf",
+                     planning=["planning.pdf"],
                      links=["https://github.com/MeeeeeRP/cisc108-deployment-demo"]
                      )
 
